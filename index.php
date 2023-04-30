@@ -7,7 +7,8 @@ echo $name == 'echo' ? 'ok' : "no";
 
 
 // git clone (git@github.com:jhonaffandy/web_profile.git)
-// git fetch + git pull
+// git fetch origin (branch) 
+// git pull origin (branch)
 // git checkout (branch)
 // git merge 
 // git add (. || filename)
